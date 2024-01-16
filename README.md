@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)]
+![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Jishnu Mohan</h1>
 <h3 align="center">I am a passionate front-end developer from India who is currently working on back-end development.</h3>
 <img align="right" alt="Coding" width="400" src="https://fiverr-res.cloudinary.com/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/attachments/project_item/attachment/515cfd80ab9f2122d93871b97273195b-1697237211877/call-c.gif">
