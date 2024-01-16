@@ -1,8 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jishnu Mohan</h1>
 <h3 align="center">I am a passionate front-end developer from India who is currently working on back-end development.</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
-
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.bing.com/images/search?view=detailV2&ccid=%2bEGsK%2b%2bu&id=5029B4F29E8EBEB680E1E29A3EB804CC79F1D62E&thid=OIP.-EGsK--u3aJAxVoGsjsz7AHaFj&mediaurl=https%3a%2f%2fmiro.medium.com%2fmax%2f1600%2f0*C-cPP9D2MIyeexAT.gif&exph=600&expw=800&q=codinf+gif&simid=607990382745158522&FORM=IRPRST&ck=89407489EECE0A372298B63C3965E231&selectedIndex=121&itb=0)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jishnumo&label=Profile%20views&color=0e75b6&style=flat" alt="jishnumo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -33,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jishnumo&show_icons=true&locale=en" alt="jishnumo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jishnumo&" alt="jishnumo" /></p>
-
